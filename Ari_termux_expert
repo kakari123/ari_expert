@@ -10,7 +10,7 @@ printf "\e[1;92m########################################\e[0m\n"
 printf "\e[1;92m#   this tools creat by ariahmed       # \e[0m\n"           
 printf "\e[1;92m#       follow my instagram            # \e[0m\n"
 printf "\e[1;91m#           @vx.4ryi                     # \e[0m\n"
-printf "\e[1;92m#        techno-zone-ari                # \e[0m\n"
+printf "\e[1;92m#        ari                # \e[0m\n"
 printf "\e[1;92m######################################## \e[0m\n"
 sleep 3
 pkg update -y
@@ -24,12 +24,12 @@ echo "       arim  "
 sleep 1
 clear
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;90m techno-zone ariahmed ./  \e[0m\n "
+printf "\e[1;90m expert ariahmed ./  \e[0m\n "
 printf "\e[1;92m########################################\e[0m\n"
 sleep 1
 clear
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;96m techno-zone ariahmed ..\  \e[0m\n  "
+printf "\e[1;96m expert ariahmed ..\  \e[0m\n  "
 printf "\e[1;92m########################################\e[0m\n"
 sleep 1
 clear
@@ -231,12 +231,12 @@ sleep 1
 clear
 printf "\e[1;92m########################################\e[0m\n"
 
-printf "\e[1;91m  xwat lagal bram tawaw bw followm bkan @vx.4ryi insta /\/\/\/\/\/\ techno-zone-ari\e[0m\n"
+printf "\e[1;91m  xwat lagal bram tawaw bw followm bkan @vx.4ryi insta /\/\/\/\/\/\ expert-ari\e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 clear
 sleep 1
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;91m   xwat lagal bram tawaw bw followm bkan @vx.4ryi insta    /\/\/\/\/\/\/\ techno-zone-ari \e[0m\n"
+printf "\e[1;91m   xwat lagal bram tawaw bw followm bkan @vx.4ryi insta    /\/\/\/\/\/\/\ expert-ari \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 sleep 5
 pkg install tor -y
@@ -254,5 +254,5 @@ printf "\e[1;94m#           @vx.4ryi                     # \e[0m\n"
 printf "\e[1;94m#            expert                    # \e[0m\n"
 printf "\e[1;94m######################################## \e[0m\n"
 sleep 3
-figlet ari ahmed techno zone 
+figlet ari ahmedexpert
 printf "\e[1;92m instagram  @vx.4ryi \e[0m\n"\
